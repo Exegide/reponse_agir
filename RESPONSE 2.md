@@ -19,7 +19,7 @@ admin / TheMoreSecureNumberIs42!!!
 Il faut regarder dans le code source de la page et lire le commentaire pour comprendre comment trouver le mot de passe (aller sur [Dcode](https://www.dcode.fr/md5-hash) et encypter "EPITA" en md5 puis coller le resultat)).
 
 the_boss / ea755ea897a1ff1269db3d16d2b8a57c
-#### changer pour accepter Epita et epita
+#### changer pour accepter Epita et epita - > 9e81e0d85da6a5b854f0cc015fe075cc et 2940f2ec0ff69b02b23d0eee237fb7c3
 
 
 ### [ch-14] [EASY]
@@ -50,8 +50,9 @@ Gertrude / I-love-my-cat
 Il faut regarder sur les tableaux de la salle de l'atelier.
 Il faut avoir écrit préalablement le nom d'utilisateur et le mot de passe sur les tableaux de la salle .
 
-Tom / le_beau_gosse_91
-
+Tom / le_beau_gosse_91   
+#### potentiellement Fabou_lOver42 mais a verifier
+ 
 ### [ch-23] [EASY]
 
 Il faut regarder sur les posters dans la salle de l'atelier.
@@ -59,6 +60,8 @@ Il faut avoir au préalable bien entourer ou écrit les mots "EPITA" et "informa
 La case (minuscule / majuscule) n'a pas d'importance.
 
 EPITA / informatique
+
+#### potentiellement "talents" au lieu de "informatique mais a verifier"
 
 ### [ch-24 / disable pour le moment]
 
@@ -83,7 +86,7 @@ Le site [Dcode](http://www.dcode.fr/) va fournir tous les outils pour l'opérati
 
 turing / von Neumann
 
-#### retirer le cote case sensitive
+#### retirer le cote case sensitive et l'espace pour Von Neumann (VonNeumann)
 
 ## Stéganographie
 
@@ -107,6 +110,8 @@ Attention, le code est petit sur l'image et il va peut-être falloir s'y prendre
 Le code correspond au code barre d'un sachet de café en grain, c'est donc possible que l'applicaiton mobile vous affiche le café correspondant; ce n'est pas grave du tout, ce que l'on souhaite c'est la suite de chiffre représenté par le code barre.
 
 8000070063334
+
+#### potentiellement trouver une autre image de code barre pcq parfois un peu galere a lire 
 
 ### [ch-33][MEDIUM]
 
@@ -135,6 +140,8 @@ automatique et voir apparaître le message en clair.
 Par exemple: https://morsecode.world/
 
 marie / sport42
+
+#### actuellement desactive ? 
 
 ### [ch-36 / disable]  /// CONNAIS PAS
 
@@ -190,4 +197,4 @@ Il faut retrouver la porte KB1 du site EPITA Kremlin-bicêtre sur le site https:
 
 Emplacement : https://what3words.com/ricanant.palabrer.virant
 
-Note : ne pas oublier de passer l'interface du site en francais
+#### Note : ne pas oublier de passer l'interface du site en francais
