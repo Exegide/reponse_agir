@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "ch - 11: Login",
+        "solution_username": "admin",
+        "solution_password": "admin",
+        "solution_word": null
+    },
+    {
+        "id": 2,
+        "name": "ch - 12: Euhhh source ?",
+        "solution_username": "admin",
+        "solution_password": "TheMoreSecureNumbereIs42!!!",
+        "solution_word": null
+    },
+    {
+        "id": 3,
+        "name": "ch - 13: Source",
+        "solution_username": "the_boss",
+        "solution_password": "ea755ea897a1ff1269db3d16d2b8a57c",
+        "solution_word": null
+    },
+    {
+        "id": 4,
+        "name": "ch - 14: Scan",
+        "solution_username": "student",
+        "solution_password": "EpitaRox",
+        "solution_word": null
+    },
+    {
+        "id": 5,
+        "name": "ch - 15: Decode",
+        "solution_username": null,
+        "solution_password": null,
+        "solution_word": "{MyFlag42}"
+    },
+    {
+        "id": 6,
+        "name": "ch - 16: Merci mamie !",
+        "solution_username": null,
+        "solution_password": null,
+        "solution_word": "Exegide{miam}"
+    },
+    {
+        "id": 7,
+        "name": "ch - 22: Recherche +",
+        "solution_username": "FC_Fabou",
+        "solution_password": "F@bou_L0ver_42",
+        "solution_word": null
+    },
+    {
+        "id": 8,
+        "name": "ch - 23: Recherche ++",
+        "solution_username": "EPITA",
+        "solution_password": "TALENTS",
+        "solution_word": null
+    },
+    {
+        "id": 9,
+        "name": "ch - 25: Chiffrement",
+        "solution_username": "caesar",
+        "solution_password": "empereur",
+        "solution_word": null
+    },
+    {
+        "id": 10,
+        "name": "ch - 26: Chiffrement ++",
+        "solution_username": "turing",
+        "solution_password": "von neumann",
+        "solution_word": null
+    },
+    {
+        "id": 11,
+        "name": "ch - 31: Lookup",
+        "solution_username": "louanne",
+        "solution_password": "CanvaCestTop",
+        "solution_word": null
+    },
+    {
+        "id": 12,
+        "name": "ch - 32: C pas cher",
+        "solution_username": null,
+        "solution_password": null,
+        "solution_word": "8000070063334"
+    },
+    {
+        "id": 13,
+        "name": "ch - 33: MetaHidden",
+        "solution_username": "MarcLaPhoto35",
+        "solution_password": "photo42$bzh",
+        "solution_word": null
+    },
+    {
+        "id": 14,
+        "name": "ch - 61: On est la",
+        "solution_username": null,
+        "solution_password": null,
+        "solution_word": "Exegide{ricanant.palabrer.virant}"
+    },
+    {
+        "id": 15,
+        "name": "ch - 71: Math Chall",
+        "solution_username": null,
+        "solution_password": null,
+        "solution_word": "69 120 101 103 105 100 101"
+    },
+    {
+        "id": 16,
+        "name": "ch - 72: Math final chall",
+        "solution_username": null,
+        "solution_password": null,
+        "solution_word": "Exegide"
+    },
+    {
+        "id": 17,
+        "name": "ch - 51: Ouch",
+        "solution_username": null,
+        "solution_password": null,
+        "solution_word": "test"
+    },
+    {
+        "id": 18,
+        "name":"ch - 52: Ouch +++",
+        "solution_username": null,
+        "solution_password": null,
+        "solution_word": "test"
+    },
+    {
+        "id":19,
+        "name":"ch - 41: select *",
+        "solution_username": null,
+        "solution_password": null,
+        "solution_word": null
+    },
+    {
+        "id":20,
+        "name":"ch - 21: Gertrude",
+        "solution_username": "Gertrude",
+        "solution_password": "I-love-my-cat",
+        "solution_word": null
+    }
+]
