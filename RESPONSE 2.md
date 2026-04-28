@@ -203,4 +203,4 @@ Emplacement : https://what3words.com/ricanant.palabrer.virant
 
 ### [ch-72]
 
-translate to ASCII the anwser from ch-71
+use ASCII table for the anwser use what you find in ch-71, donc décimal à char le but est de faire la traduction
