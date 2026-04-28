@@ -198,3 +198,9 @@ Il faut retrouver la porte KB1 du site EPITA Kremlin-bicêtre sur le site https:
 Emplacement : https://what3words.com/ricanant.palabrer.virant
 
 #### Note : ne pas oublier de passer l'interface du site en francais
+
+## Maths
+
+### [ch-72]
+
+translate to ASCII the anwser from ch-71
